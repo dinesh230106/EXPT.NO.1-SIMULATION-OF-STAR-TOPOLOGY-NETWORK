@@ -32,7 +32,7 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 # OUTPUT
 <img width="960" height="1280" alt="3" src="https://github.com/user-attachments/assets/c1c4ce24-115c-4d12-a682-20e98d69adf0" />
-<img width="854" height="1280" alt="0e2df60e-df1f-4e42-9aef-a0f7d1b18736" src="https://github.com/user-attachments/assets/9b03a110-d7ba-41e5-9cb2-0bb24caaa339" />
+
 
 
 # RESULT
