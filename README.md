@@ -33,6 +33,8 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 # OUTPUT
 <img width="960" height="1280" alt="3" src="https://github.com/user-attachments/assets/c1c4ce24-115c-4d12-a682-20e98d69adf0" />
 
+<img width="854" height="1280" alt="WhatsApp Image 2026-09-01 at 1 27 34 PM" src="https://github.com/user-attachments/assets/a349ae10-0aa7-4669-9d96-ee8c761e5053" />
+
 
 
 # RESULT
